@@ -72,7 +72,7 @@
 					<div class=" text-center menu-1 menu-wrap">
 						<ul>
 							<li class="active"><a href="{{route('index')}}">Inicio</a></li>
-							<li><a href="{{route('catalogo')}}"">Catalogo</a></li>
+							<li><a href="{{route('catalogo')}}">Catalogo</a></li>
 							<li class="has-dropdown">
 								<a href="{{route('galeria')}}">Galeria</a>
 								
@@ -112,7 +112,7 @@
 				<div class="col-md-5 col-md-push-1 animate-box">
 					<div class="section-heading">
 						<h2>¿Quienes somos?</h2>
-						<p>Somo una empresa que comenzo en el (investigar edad de la empresa), el cual el objetivo ha sido el mismo que hace **, satisfacer las necesidades de nuestros clientes, trayendo los productos de mejor calidad a el paladar de las personas que prueban la calidad de los productos </p>
+						<p>Somos una empresa que comenzó en el (investigar edad de la empresa), el cual el objetivo ha sido el mismo que hace **, satisfacer las necesidades de nuestros clientes, trayendo los productos de mejor calidad a el paladar de las personas que prueban la calidad de los productos </p>
 					</div>
 				</div>
 			</div>
@@ -124,9 +124,9 @@
 			<div class="row">
 			<div class="col-md-5 col-md-push-1 animate-box">
 					<div class="section-heading">
-						<h2>¿wur productos ofrecemos?</h2>
+						<h2>¿Que tipo de productos ofrecemos?</h2>
 						<p>Al iniciar la empresa nos preguntamos lo mas importante...</p> 
-						<p>¿Que productos deberiamos vender?, al plantearnos esta pregunta se llego a la conclusion de vender todo tipo de dulces, yas ean de origen nacional, internacional, caseros o incluso de alguan otra pequeña empresa en la que se tenga un convenio</p>
+						<p>¿Que productos deberiamos vender?, al plantearnos esta pregunta se llego a la conclusion de vender todo tipo de dulces, ya sean de origen nacional, internacional, caseros o incluso de alguan otra pequeña empresa en la que se tenga un convenio</p>
 					</div>
 							</div>
 							<div class="col-md-5 col-md-push-1 animate-box" data-animate-effect="fadeInLeft">
@@ -142,45 +142,45 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 fh5co-heading animate-box">
-					<h2>Today's Menu</h2>
+					<h2>¿Con que productos contamos?</h2>
 					<div class="row">
 						<div class="col-md-6">
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ab debitis sit itaque totam, a maiores nihil, nulla magnam porro minima officiis! Doloribus aliquam voluptates corporis et tempora consequuntur ipsam, itaque, nesciunt similique commodi omnis. Ad magni perspiciatis, voluptatum repellat.</p>
+							<p>Contamos con mas de 30 tipos de productos, pero por ahora te mostraremos los mas conocidos que manejamos desde que empezó la empresa.</p>
 						</div>
 					</div>
 				</div>
 				
 				<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12 fh5co-item-wrap animate-box">
 					<div class="fh5co-item">
-						<img src="images/gallery_9.jpeg" class="img-responsive" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
-						<h3>Bake Potato Pizza</h3>
-						<span class="fh5co-price">$20<sup>.50</sup></span>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos nihil cupiditate ut vero alias quaerat inventore molestias vel suscipit explicabo.</p>
+						<img src="images/mandmsamarillo.png" class="img-responsive" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
+						<h3>M&Ms con relleno de cacahuate</h3>
+						<span class="fh5co-price">$88<sup>.00</sup></span>
+						<p>Paquete de M&Ms con relleno de cacahuate, estos incluyen 6 piezas.</p>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12 fh5co-item-wrap animate-box">
 					<div class="fh5co-item margin_top">
-						<img src="images/gallery_8.jpeg" class="img-responsive" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
-						<h3>Salted Fried Chicken</h3>
-						<span class="fh5co-price">$19<sup>.00</sup></span>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos nihil cupiditate ut vero alias quaerat inventore molestias vel suscipit explicabo.</p>
+						<img src="images/carlosv.png" class="img-responsive" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
+						<h3>Carlos V</h3>
+						<span class="fh5co-price">$100<sup>.00</sup></span>
+						<p>Caja grande que contiene 18 piezas de chocolate suizo.</p>
 					</div>
 				</div>
 				<div class="clearfix visible-sm-block visible-xs-block"></div>
 				<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12 fh5co-item-wrap animate-box">
 					<div class="fh5co-item">
-						<img src="images/gallery_7.jpeg" class="img-responsive" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
-						<h3>Italian Sauce Mushroom</h3>
-						<span class="fh5co-price">$17<sup>.99</sup></span>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos nihil cupiditate ut vero alias quaerat inventore molestias vel suscipit explicabo.</p>
+						<img src="images/pinguinogomitas.png" class="img-responsive" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
+						<h3>Gomilocas de pinguino</h3>
+						<span class="fh5co-price">$85<sup>.00</sup></span>
+						<p>Paquete grande de gomitas de la marca "Ricolino", esta en sus variantes de dientes, panditas.</p>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12 fh5co-item-wrap animate-box">
 					<div class="fh5co-item margin_top">
-						<img src="images/gallery_6.jpeg" class="img-responsive" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
-						<h3>Fried Potato w/ Garlic</h3>
-						<span class="fh5co-price">$22<sup>.50</sup></span>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos nihil cupiditate ut vero alias quaerat inventore molestias vel suscipit explicabo.</p>
+						<img src="images/paletapayaso.png" class="img-responsive" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
+						<h3>Paleta Payaso grande/chica</h3>
+						<span class="fh5co-price">grande= $110<sup>/ chica= $105</sup></span>
+						<p>La caja grande cuenta con 10 piezas, mientras que la caja chica cuenta con 15 piezas, ambas ferescas y esperando a ser comídas.</p>
 					</div>
 				</div>
 			</div>
@@ -192,11 +192,11 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 fh5co-heading animate-box">
-					<h2>Testimony</h2>
+					<h2>Testimonio</h2>
 					<div class="row">
 						<div class="col-md-6">
 							
-<p>En etsa seccion mostraremos lo que piensan nuestro clientes y colaboradores mas activos de la empresa, mostrando la solidaridad y proposito de cumplior con als expectativas de los clientes que quieren comprar prodcutos de calidad.</p>
+<p>En esta seccion mostraremos lo que piensan nuestros clientes y colaboradores mas activos de la empresa, mostrando la solidaridad y proposito de cumplir con las expectativas de los clientes que quieren comprar prodcutos de calidad.</p>
 						</div>
 					</div>
 				</div>
@@ -220,17 +220,10 @@ Con excelente,atención al cliente.</p>
 			<div class="row copyright">
 				<div class="col-md-12 text-center">
 					<p>
-						<small class="block">&copy; 2016 Free HTML5. All Rights Reserved.</small> 
-						<small class="block">Designed by <a href="http://freehtml5.co/" target="_blank">FreeHTML5.co</a> Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a></small>
+						<div><small class="block">Dulceria "La colmena".</small></div> 
+						<small class="block">Te gustaria <a href="{{route('catalogo')}}" target="_blank">Ir a Catalogo?</a> o ir a <a href="{{route('contact')}}" target=_blank">Seccion de contacto?</a></small>
 					</p>
-					<p>
-						<ul class="fh5co-social-icons">
-							<li><a href="#"><i class="icon-twitter2"></i></a></li>
-							<li><a href="#"><i class="icon-facebook2"></i></a></li>
-							<li><a href="#"><i class="icon-linkedin2"></i></a></li>
-							<li><a href="#"><i class="icon-dribbble2"></i></a></li>
-						</ul>
-					</p>
+				
 				</div>
 			</div>
 
