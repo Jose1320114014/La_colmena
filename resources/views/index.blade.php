@@ -66,10 +66,10 @@
 		<!-- <div class="top-menu"> -->
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-12 text-center logo-wrap">
+					<div class=" text-center logo-wrap">
 						<div id="fh5co-logo"><a href="{{route('index')}}">La colmena<span>.</span></a></div>
 					</div>
-					<div class="col-xs-12 text-center menu-1 menu-wrap">
+					<div class=" text-center menu-1 menu-wrap">
 						<ul>
 							<li class="active"><a href="{{route('index')}}">Inicio</a></li>
 							<li><a href="{{route('catalogo')}}"">Catalogo</a></li>
@@ -78,7 +78,7 @@
 								
 							</li>
 
-							<li><a href="contact.html">Contacto</a></li>
+							<li><a href="{{route('contact')}}">Contactanos</a></li>
 						</ul>
 					</div>
 				</div>
@@ -87,7 +87,7 @@
 		<!-- </div> -->
 	</nav>
 
-	<header id="fh5co-header" class="fh5co-cover js-fullheight" role="banner" style="background-image: url(images/hero_1.jpeg);" data-stellar-background-ratio="0.5">
+	<header id="fh5co-header" class="fh5co-cover js-fullheight" role="banner" style="background-image: url(images/portrait.jpeg);" data-stellar-background-ratio="0.5">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row">
@@ -106,8 +106,8 @@
 	<div id="fh5co-about" class="fh5co-section">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-6 col-md-pull-4 img-wrap animate-box" data-animate-effect="fadeInLeft">
-					<img src="images/hero_1.jpeg" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
+				<div class="col-md-6 col-md-push img-wrap animate-box" data-animate-effect="fadeInLeft">
+					<img src="images/imadul.jpeg" >
 				</div>
 				<div class="col-md-5 col-md-push-1 animate-box">
 					<div class="section-heading">
@@ -122,21 +122,40 @@
 	<div id="fh5co-featured-menu" class="fh5co-section">
 		<div class="container">
 			<div class="row">
+			<div class="col-md-5 col-md-push-1 animate-box">
+					<div class="section-heading">
+						<h2>¿wur productos ofrecemos?</h2>
+						<p>Al iniciar la empresa nos preguntamos lo mas importante...</p> 
+						<p>¿Que productos deberiamos vender?, al plantearnos esta pregunta se llego a la conclusion de vender todo tipo de dulces, yas ean de origen nacional, internacional, caseros o incluso de alguan otra pequeña empresa en la que se tenga un convenio</p>
+					</div>
+							</div>
+							<div class="col-md-5 col-md-push-1 animate-box" data-animate-effect="fadeInLeft">
+							<img src="images/imadul2.jpeg">
+						</div>
+						</div>
+
+					</div>
+					
+				</div>
+			</div>
+			<div id="fh5co-featured-menu" class="fh5co-section">
+		<div class="container">
+			<div class="row">
 				<div class="col-md-12 fh5co-heading animate-box">
-					<h2>¿Que productos manejamos?</h2>
+					<h2>Today's Menu</h2>
 					<div class="row">
 						<div class="col-md-6">
-							<p>Nuestra empresa esta dedicada en la venta de caramelos de calidad, teniendo un convenio con grandes empresas que son las creadoras de estas, como Nestle, Jolly, Totis, M&MS, etc, trayendo los mejores productos para venderlos y satisfacer los gustos de nuestros clientes, manejamos desde caramelos macizoz comunes, hasta dulces que probablemente pienses que ya no existen, haciendo unica la razon por la cual deberia checar nuestro catalogo, debajo de esta breve explicacion, mostraremos uno de los pocos productos que tenemos par aofrecerle</p>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ab debitis sit itaque totam, a maiores nihil, nulla magnam porro minima officiis! Doloribus aliquam voluptates corporis et tempora consequuntur ipsam, itaque, nesciunt similique commodi omnis. Ad magni perspiciatis, voluptatum repellat.</p>
 						</div>
 					</div>
 				</div>
 				
 				<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12 fh5co-item-wrap animate-box">
 					<div class="fh5co-item">
-						<img src="https://cdn.shopify.com/s/files/1/0356/1088/6280/products/MANITADELASUERTE_Bolsa40pzas_630x.png?v=1589397710" class="img-responsive" >
-						<h3>Paleta Manita de la suerte</h3>
-						<span class="fh5co-price">$63<sup>.90</sup></span>
-						<p>Esta paleta fue creada en el año de 1952 por una empresa que inicio humildemente llamada Dulces vero,este producto fue el precursor para saltar a lo que es la empresa en la actualidad, esta paleta tiene sabor de fresas con cereza y el paquete tiene 40 piezas.</p>
+						<img src="images/gallery_9.jpeg" class="img-responsive" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
+						<h3>Bake Potato Pizza</h3>
+						<span class="fh5co-price">$20<sup>.50</sup></span>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos nihil cupiditate ut vero alias quaerat inventore molestias vel suscipit explicabo.</p>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12 fh5co-item-wrap animate-box">
@@ -168,6 +187,7 @@
 		</div>
 	</div>
 
+
 	<div id="fh5co-featured-testimony" class="fh5co-section">
 		<div class="container">
 			<div class="row">
@@ -175,18 +195,20 @@
 					<h2>Testimony</h2>
 					<div class="row">
 						<div class="col-md-6">
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ab debitis sit itaque totam, a maiores nihil, nulla magnam porro minima officiis! Doloribus aliquam voluptates corporis et tempora consequuntur ipsam, itaque, nesciunt similique commodi omnis.</p>
+							
+<p>En etsa seccion mostraremos lo que piensan nuestro clientes y colaboradores mas activos de la empresa, mostrando la solidaridad y proposito de cumplior con als expectativas de los clientes que quieren comprar prodcutos de calidad.</p>
 						</div>
 					</div>
 				</div>
 
 				<div class="col-md-5 animate-box img-to-responsive animate-box" data-animate-effect="fadeInLeft">
-						<img src="images/person_1.jpg" alt="">
+						<img src="images/mariana.jpeg" alt="">
 				</div>
 				<div class="col-md-7 animate-box" data-animate-effect="fadeInRight">
 					<blockquote>
-						<p> &ldquo; Quantum ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ab debitis sit itaque totam, a maiores nihil, nulla magnam porro minima officiis! Doloribus aliquam voluptates corporis et tempora consequuntur ipsam. &rdquo;</p>
-						<p class="author"><cite>&mdash; Jane Smith</cite></p>
+						<p> una empresa familiar,dedicada a la compra y venta de  dulces típicos y marcas reconocidas para toda ocasión.
+Con excelente,atención al cliente.</p>
+						<p class="author"><cite>Mariana Guerrero ; La clienta mas reconocida para la empresa, esto debido a que ella estuvo al mismo tiempo que la empresa comenzó a desarrollarse, ayudandose mutuamente para ser lo que son ahora en la actualidad.</cite></p>
 					</blockquote>
 				</div>
 			</div>

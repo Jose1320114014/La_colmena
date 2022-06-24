@@ -24,3 +24,7 @@ Route::get('/catalogo', function () {
 Route::get('/galeria', function () {
     return view('galeria');
 })->name('galeria');
+
+Route::get('/contactanos', function () {
+    return view('contact');
+})->name('contact');

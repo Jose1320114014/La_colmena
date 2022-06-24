@@ -71,16 +71,14 @@
 						<div id="fh5co-logo"><a href="{{route('index')}}">Tasty<span>.</span></a></div>
 					</div>
 					<div class="col-xs-12 text-center menu-1 menu-wrap">
-						<ul>
+					<ul>
 							<li><a href="{{route('index')}}">Inicio</a></li>
 							<li><a href="{{route('catalogo')}}">Catalogo</a></li>
 							<li class="has-dropdown active">
 								<a href="{{route('galeria')}}">Galeria</a>
 								 
 							</li>
-							<li><a href="reservation.html">Reservation</a></li>
-							<li><a href="about.html">About</a></li>
-							<li><a href="contact.html">Contact</a></li>
+							<li><a href="{{route('contact')}}">Contactanos</a></li>
 						</ul>
 					</div>
 				</div>

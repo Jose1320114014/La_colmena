@@ -72,19 +72,12 @@
 					</div>
 					<div class="col-xs-12 text-center menu-1 menu-wrap">
 						<ul>
-							<li><a href="index.html">Home</a></li>
-							<li><a href="menu.html">Menu</a></li>
+							<li><a href="{{route('index')}}">Home</a></li>
+							<li><a href="{{route('catalogo')}}">Menu</a></li>
 							<li class="has-dropdown">
-								<a href="gallery.html">Gallery</a>
-								<ul class="dropdown">
-									<li><a href="#">Events</a></li>
-									<li><a href="#">Food</a></li>
-									<li><a href="#">Coffees</a></li>
-								</ul>
+								<a href="{{route('galeria')}}">Gallery</a>
 							</li>
-							<li><a href="reservation.html">Reservation</a></li>
-							<li><a href="about.html">About</a></li>
-							<li class="active"><a href="contact.html">Contact</a></li>
+							<li class="active"><a href="{{route('contact')}}">Contactanos</a></li>
 						</ul>
 					</div>
 				</div>
