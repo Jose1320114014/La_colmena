@@ -86,7 +86,7 @@
 		<!-- </div> -->
 	</nav>
 
-	<header id="fh5co-header" class="fh5co-cover js-fullheight" role="banner" style="background-image: url(images/hero_1.jpeg);" data-stellar-background-ratio="0.5">
+	<header id="fh5co-header" class="fh5co-cover js-fullheight" role="banner" style="background-image: url(images/portrait.jpeg);" data-stellar-background-ratio="0.5">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row">
@@ -122,7 +122,7 @@
 					<h4>O conocenos personalmente!</h4>
 					<ul class="fh5co-footer-links">
 						<li>Calle margaritas, <br> Mz.165 Lt.40 Ojo de Agua Estado de Mexico</li>
-						<li>5559382524</li>
+						<li>5559382524</a></li>
 						<li>El horario puede estar sujeto de 10:00 AM  a 2:00 PM (de manera Personal)</li>
 			
 					</ul>
