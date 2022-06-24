@@ -72,7 +72,7 @@
 					<div class=" text-center menu-1 menu-wrap">
 						<ul>
 							<li class="active"><a href="{{route('index')}}">Inicio</a></li>
-							<li><a href="{{route('catalogo')}}"">Catalogo</a></li>
+							<li><a href="{{route('catalogo')}}">Catalogo</a></li>
 							<li class="has-dropdown">
 								<a href="{{route('galeria')}}">Galeria</a>
 								
