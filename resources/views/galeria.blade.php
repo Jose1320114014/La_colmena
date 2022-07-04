@@ -6,8 +6,8 @@
 	<title>La colmena - Galeria</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Una empresa que tiene como finalidad comenzar el desarrollo dentro de la pagina web." />
-	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
-	<meta name="author" content="freehtml5.co" />
+	<meta name="keywords" content="Una empresa que tiene como finalidad comenzar el desarrollo dentro de la pagina web." />
+	<meta name="author" content="Una empresa que tiene como finalidad comenzar el desarrollo dentro de la pagina web.git" />
 
 	<!-- 
 	//////////////////////////////////////////////////////
