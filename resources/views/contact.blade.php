@@ -94,7 +94,7 @@
 					<div class="display-t js-fullheight">
 						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
 							<h1>contactanos ahora!</h1>
-							<h2>Estamos dispouestos a apoyarte...</h2>
+							<h2>Estamos dispuestos a apoyarte...</h2>
 						</div>
 					</div>
 				</div>
